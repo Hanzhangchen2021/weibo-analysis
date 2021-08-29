@@ -1,2 +1,1 @@
-# weibo-analysis
-AB26744 Graduation thesis
+# please read another branch ——master
