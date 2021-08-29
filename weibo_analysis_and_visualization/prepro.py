@@ -160,7 +160,7 @@ if __name__ == '__main__':
     '''
 
     # pandas csv文档读法
-    df_weibo = pd.read_csv(r'/Users/chz/Downloads/weibo/wei/weibo_analysis_and_visualization/data.csv', sep=',', quotechar='"', error_bad_lines=False,encoding='gbk')
+    df_weibo = pd.read_csv(r'/Users/chz/Downloads/weibo/wei/weibo_analysis_and_visualization/新冠疫苗.csv', sep=',', quotechar='"', error_bad_lines=False,encoding='gbk')
     #print(df_weibo.head())
     df_weibo = df_weibo.to_json(orient="records")
     df_weibo = json.loads(df_weibo)
