@@ -69,7 +69,7 @@ After a successful login, you will jump to <https://m.weibo.cn>;<br>
 
  <div>
        <img
-   src='/Users/chz/Downloads/weibo-analysis-main/weibo_analysis_and_visualization/images/img_1.png'         
+   src='https://github.com/Hanzhangchen2021/weibo-analysis/blob/master/weibo_analysis_and_visualization/images/img_1.png?raw=true'         
             >
    </div>
 
@@ -80,7 +80,7 @@ After a successful login, you will jump to <https://m.weibo.cn>;<br>
 
    <div>
        <img
-   src='/Users/chz/Downloads/weibo-analysis-main/weibo_analysis_and_visualization/images/img.png'         
+   src='https://github.com/Hanzhangchen2021/weibo-analysis/blob/master/weibo_analysis_and_visualization/images/img.png?raw=true'         
             >
    </div>
 
